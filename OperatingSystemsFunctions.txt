@@ -10,4 +10,4 @@ This means more than one program can run at the same time.
 
 Configuring devices is yet another important function for an operating system.
 Devices need a driver to be able to function with the computer.
-There are a lot of devices that run off of plug and play and will automaticlaly download the driver to allow immediate usage.
+There are a lot of devices that run off of plug and play and will automatically download the driver to allow immediate usage.
