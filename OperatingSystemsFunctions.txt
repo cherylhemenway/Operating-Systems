@@ -1,0 +1,4 @@
+User interfaces are one function of an operating system.
+The user interface provides a means for actually using the system.
+There are variations on the user interface can be altered and tailored by the user.
+Some operating systems allow touching/tapping instead of clicking.
