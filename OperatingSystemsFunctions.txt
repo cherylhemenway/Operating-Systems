@@ -7,3 +7,7 @@ Another operating system function is managing programs.
 Managing multitasking programs is the function that most systems now run, opposed to single tasking a program.
 One reason multitasking is used more, is to be able to have more than one program in the memory simultaneously.
 This means more than one program can run at the same time.
+
+Configuring devices is yet another important function for an operating system.
+Devices need a driver to be able to function with the computer.
+There are a lot of devices that run off of plug and play and will automaticlaly download the driver to allow immediate usage.
